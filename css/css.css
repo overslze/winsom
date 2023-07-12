@@ -1,7 +1,7 @@
 
-@media (max-width: 900px) {
+@media (max-width: 500px) {
   body {
-      zoom: 75%;
+      zoom: 80%;
   }
 }
 /* cyrillic-ext */
