@@ -1,3 +1,9 @@
+
+@media (max-width: 900px) {
+  body {
+      zoom: 75%;
+  }
+}
 /* cyrillic-ext */
 @font-face {
   font-family: 'Montserrat';
